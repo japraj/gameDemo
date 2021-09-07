@@ -1,6 +1,6 @@
 ![The game](https://i.imgur.com/fsmHqiL.png)
 
-# HTML5 Video Game Demo
+# [HTML5 Video Game Demo](https://japraj.github.io/gameDemo/ "HTML5 Video Game Demo")
 
 Note that this build gives you a heavily upgraded account (godmode). To play:
 
